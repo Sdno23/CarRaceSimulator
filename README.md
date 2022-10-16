@@ -1,1 +1,1 @@
-Create and save "winnerCarSet.txt" and "loserCarSet.txt" files on main folder of project.
+Create and save "winnerCarSet.txt" and "loserCarSet.txt" files on primary/main folder of project.
