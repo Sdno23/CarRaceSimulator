@@ -1,5 +1,5 @@
 /*
- * @author 3156908
+ * @author XXXXX8
  *
  * @version 1.0 07/26/2020
  *
@@ -10,7 +10,7 @@
  * Lecturer's Name: C. Charters
  */
 
-package challenge5_3156908;
+package CarRaceSimulator;
 
 import java.io.*;
 import java.util.Scanner;
