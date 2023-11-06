@@ -7,14 +7,14 @@
  *
  * Semester: Summer 2020
  *
- * Lecturer's Name: C. Charters
+ * Lecturer's Name: C. Charters 
  */
 
-package CarRaceSimulator;
+package carracesimulator;
 
 /**
  *
- * @author 3156908
+ * @author XXXXX08
  */
 
 import java.util.Random;
