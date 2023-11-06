@@ -1,5 +1,5 @@
 /*
- * @author XXXXX8
+ * @author XXXXX08
  *
  * @version 1.0 07/26/2020
  *
@@ -10,7 +10,7 @@
  * Lecturer's Name: C. Charters
  */
 
-package CarRaceSimulator;
+package carracesimulator;
 
 import java.io.*;
 import java.util.Scanner;
@@ -18,7 +18,7 @@ import java.io.IOException;
 
 /**
  *
- * @author 3156908
+ * @author XXXXX08
  */
 
 public class Race {
